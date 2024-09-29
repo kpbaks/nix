@@ -73,6 +73,7 @@
 
   services = {
     dunst.enable = true;
+    glance.enable = true;
     mako.enable = true;
     polybar = {
       enable = true;

@@ -16,6 +16,7 @@
   ./gh-dash.nix
   ./gitui.nix
   ./glamour.nix
+  ./glance.nix
   ./globals.nix
   ./gtk.nix
   ./helix.nix
